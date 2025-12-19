@@ -1,11 +1,11 @@
 # Hey there, I'm Anna 👋
 
-### A passionate Computer Science Engineer
+### Bringing the world a little closer one code change at a time 
 
 ---
-I am a graduate student at New York University studying computer science with a focus on software development and building responsible and sustainable technology. 
+I am a graduate student at New York University, studying computer science with a focus on software development and on building responsible, sustainable technology. Before starting my graduate journey, I worked at SAP Labs in Bangalore for 3 years as an Application Engineer for SAP SuccessFactors. I worked on the product's underlying backend infrastructure, enhancing Human Resource management for customers.
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/anna-susan)
+I love chatting with anyone interested in technology at the intersection of inclusivity and sustainability, or in the positive impact technology can have on others' lives. If that sounds like you, feel free to connect with me on[LinkedIn](www.linkedin.com/in/anna-susan)!
 
 ---
 
