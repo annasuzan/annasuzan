@@ -26,7 +26,10 @@ I love chatting with anyone interested in technology at the intersection of incl
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-
-
 ---
+<div align="center">
+  <img src="https://github.com/annasuzan/annasuzan/blob/output/github-snake.svg" alt="snake gif">
+</div>
+
+
 
