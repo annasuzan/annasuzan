@@ -1,6 +1,6 @@
 # Hey there, I'm Anna 👋
 
-### Bringing the world a little closer one commit at a time 
+### Bringing the world a little better one commit at a time 
 
 ---
 I am a graduate student at New York University, studying computer science with a focus on software development and on building responsible, sustainable technology. Before starting my graduate journey, I worked at SAP Labs in Bangalore for 3 years as an Application Engineer for SAP SuccessFactors. I worked on the product's underlying backend infrastructure, enhancing Human Resource management for customers.
